@@ -24,4 +24,4 @@ Au cours des 100 prochains jours, je partagerai avec vous un contenu exclusif po
 
 8️⃣ Et bien plus encore ! Chaque jour, je partagerai des connaissances, des conseils pratiques et des ressources pour vous aider à maîtriser la Science des Données et à vous démarquer dans votre carrière.
 
-📌 Rejoignez-moi dans cette aventure passionnante en suivant le hashtag hashtag#100JoursDataScience et en restant à l'affût de mes publications quotidiennes. Ensemble, nous pouvons explorer de nouvelles frontières et atteindre de nouveaux sommets dans le monde de la Science des Données !
+📌 Rejoignez-moi dans cette aventure passionnante en suivant le hashtag #100JoursDataScience et en restant à l'affût de mes publications quotidiennes. Ensemble, nous pouvons explorer de nouvelles frontières et atteindre de nouveaux sommets dans le monde de la Science des Données !
